@@ -14,7 +14,7 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
-Even more editing...
+DONT! more editing...
 
 How long should we continue editing!?
 

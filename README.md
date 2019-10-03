@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 
-## Long REBASE Introduction
+## Long REBASE Introduction, more changes from myfeature branch
 
 Some more editing...
 

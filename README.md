@@ -19,3 +19,7 @@ Even more editing...
 How long should we continue editing!?
 
 This has not been staged yet?!
+
+## Copyright
+
+Copyright goes here

@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Long REBASE Introduction, more changes from myfeature branch
 
-Some more editing...
+Some more editing... We are doing more fix after stash
 
 ## Purpose
 

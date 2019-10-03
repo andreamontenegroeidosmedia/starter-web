@@ -6,6 +6,8 @@ This repository is for showing how Git and GitHub work
 
 Some more editing...
 
+!Read the bottom of the file!
+
 ## Purpose
 
 Sample website with plenty of files for demos
@@ -13,3 +15,5 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 Even more editing...
+
+How long should we continue editing!?

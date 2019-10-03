@@ -9,6 +9,8 @@
 
    ALL! <name>
 
+   an EVERYONE
+
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
